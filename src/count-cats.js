@@ -20,7 +20,6 @@ function countCats( matrix ) {
     if(e=="^^") count++;
   })
   return count;
-  // remove line with error and write your code here
 }
 
 module.exports = {
