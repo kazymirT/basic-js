@@ -20,8 +20,8 @@ const { NotImplementedError } = require('../extensions/index.js');
  * 
  */
 class VigenereCipheringMachine {
-  constructor(/*bool*/){
-  throw new NotImplementedError('Not implemented');
+  constructor(bool){
+  // throw new NotImplementedError('Not implemented');
     // this.direction;
   // if(bool!='false')this.direction=true;
   // }
